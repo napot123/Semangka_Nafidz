@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Semangka App</string>
+    <string name="semangka_select">Pilih Semangka</string>
+    <string name="semangka_cut">Ketuk beberapa kali untuk memotong semangka</string>
+    <string name="semangka_drink">Ketuk untuk meminum jus semangka</string>
+    <string name="semangka_empty_glass">Ketuk gelas kosong untuk mulai lagi</string>
+    <string name="semangka_tree_content_description">Semangka</string>
+    <string name="semangka_content_description">Semangka</string>
+    <string name="semangka_drink_content_description">Jus Semangka</string>
+    <string name="empty_glass_content_description">Gelas Kosong</string>
+</resources>
